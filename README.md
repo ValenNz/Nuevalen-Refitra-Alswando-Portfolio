@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ValenNz/MyProfile.github.io/blob/main/gambar/logo.png" alt="Logo Proyek" width="200">
+  <!-- <img src="https://github.com/ValenNz/MyProfile.github.io/blob/main/gambar/logo.png" alt="Logo Proyek" width="200"> -->
 </p>
 
 <h1 align="center">Portofolio Saya</h1>
@@ -23,7 +23,7 @@ https://valennz.github.io/MyProfile.github.io/
 
 ## 📸 Tampilan
 
-![preview project](https://github.com/ValenNz/MyProfile.github.io/assets/92833376/f7b0cee2-cd2d-42d7-b9d1-501e611244bd)
+<!-- <img src> https://github.com/ValenNz/MyProfile.github.io/images/preview.png) -->
 
 ## ✨ Fitur
 
