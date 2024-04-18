@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ValenNz/MyProfile.github.io/blob/main/image/logo.png" alt="Logo Proyek" width="200">
+  <img src="https://github.com/ValenNz/MyProfile.github.io/blob/main/gambar/logo.png" alt="Logo Proyek" width="200">
 </p>
 
 <h1 align="center">Portofolio Saya</h1>
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ValenNz/REPO"><strong>Terlihat sangat bagus? Berikan Bintang ⭐</strong></a>
+  <a href="https://github.com/USERNAME/REPO"><strong>Terlihat sangat bagus? Berikan Bintang ⭐</strong></a>
 </p>
 
 <br>
