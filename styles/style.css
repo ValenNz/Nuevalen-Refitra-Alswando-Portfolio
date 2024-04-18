@@ -430,6 +430,21 @@ nav ul li a:hover {
   padding: 0 1rem;
 }
 
+
+
+#experiences {
+  padding: var(--sectionPadding);
+  background: var(--primaryBackgroundColor);
+}
+
+.experiences-grid {
+  display: grid;
+  /* grid-template-columns: 40% 60%; */
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 3rem;
+}
+
+
 /* Contact Section */
 #contact {
   padding: var(--sectionPadding);
