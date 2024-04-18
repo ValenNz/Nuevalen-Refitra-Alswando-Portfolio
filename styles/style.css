@@ -428,6 +428,7 @@ nav ul li a:hover {
 .skills-right ul {
   line-height: 2rem;
   padding: 0 1rem;
+  margin-bottom: 20px;
 }
 
 
@@ -443,6 +444,8 @@ nav ul li a:hover {
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 3rem;
 }
+
+
 
 
 /* Contact Section */
