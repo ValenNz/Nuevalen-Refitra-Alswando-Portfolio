@@ -370,7 +370,6 @@ nav ul li a:hover {
 
 
   
-/* Skills and Education */
 #skills {
   padding: var(--sectionPadding);
   background: var(--secondaryBackgroundColor);
@@ -444,7 +443,6 @@ nav ul li a:hover {
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 3rem;
 }
-
 
 
 
